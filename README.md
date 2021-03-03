@@ -1,6 +1,6 @@
 # DevLogs
 
-A quick list of the blogs I plan to write. Send me a PR to add any new topic related to the topic tags in description of the repository.
+Links to upcomming blogs on `fullstack` development & `system-design` that I plan to write. 
 
 ## Articles to Refer : 
 
